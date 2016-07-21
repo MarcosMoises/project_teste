@@ -1,0 +1,16 @@
+The key fingerprint is:
+SHA256:l3OWI4jmjdl4kku3JRi/img7gcLs/atYoJwsHBpaM5s marcosmoises159@gmail.com
+The key's randomart image is:
++---[RSA 2048]----+
+|                 |
+|                 |
+|                 |
+|       . . . .   |
+|+++   + S = =    |
+|X=== o @ . = .   |
+|B=Eo  X B .      |
+|..=o o = =       |
+| oo++o+.o        |
++----[SHA256]-----+
+
+So what are we testing here?
